@@ -1,1 +1,1 @@
-This repository implements the **DenseNet** architecture to build an image classifier on the **CIFAR10** dataset using **PyTorch**.
+This repository implements the [**DenseNet**](https://arxiv.org/abs/1608.06993) architecture to build an image classifier on the [**CIFAR10**](https://www.cs.toronto.edu/~kriz/cifar.html) dataset using **PyTorch**.
